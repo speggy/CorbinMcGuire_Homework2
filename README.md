@@ -7,7 +7,7 @@ software design patterns.
 functions when setting the time via the views and controllers. The main features implemented allow the user to change the model by inputting 
 new values for the time (hours, minutes, seconds) and the date (months, days, years). Users are also capable of starting multiple views of 
 different clock types -- Analog or Digital. The digital and analog clocks also show the current time that has been updated by the user. </p>
-<img src="time.jpg" alt="digital view">
+<img src="time.png" alt="digital view">
 
 ### Personal Experience of Implementation
 <p>This proved to be a difficult task implementing. Due to time constraints and the programming environment, I did not finish this assignment. 
